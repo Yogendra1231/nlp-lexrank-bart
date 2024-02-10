@@ -5,9 +5,13 @@
 ## Requirements
  
 Install required libraries using: `pip install nltk sumy transformers torch pandas`
+
 pip install nltk
+
 pip install sumy
+
 pip install transformers[torch]
+
 pip install pandas
 
 
