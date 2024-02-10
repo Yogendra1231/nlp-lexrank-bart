@@ -12,6 +12,8 @@ pip install sumy
 
 pip install transformers[torch]
 
+pip install transformers
+
 pip install pandas
 
 
