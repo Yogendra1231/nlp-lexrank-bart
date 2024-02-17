@@ -1,5 +1,5 @@
-# nlp-lexrank-bart
-# Text Summarization using LexRank and BART
+# nlp-Bart_lexrank_main
+# Text Summarization using BART and LexRank
 
    
 ## Requirements
@@ -17,8 +17,8 @@ pip install transformers
 pip install pandas
 
 
-first for summarisation by lexrank in the input folder we give the annual report path after that we save the summaries by lexrank in output folder ,
-then Output folder path will be given to BART input folder and save the summaries at final output folder 
+first for summarisation by Bart in the input folder we give the annual report path after that we save the summaries by Bart in output folder ,
+then Output folder path will be given to LexRank input folder and save the summaries at final output folder 
 
  
  
